@@ -1,0 +1,59 @@
+/*全局CSS样式设置*/
+body{
+	font-family: "微软雅黑";
+}
+.huo{
+    background: #40D2B1;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    margin-right: 20px;
+}
+/*进度条*/
+.progress {
+    margin-bottom: 15px;
+}
+/*头像*/
+.wh64{
+	height: 64px;
+	width: 64px;
+	border-radius: 50%;
+}
+/*margin-top_15*/
+.mar_t15{
+	margin-top: 15px;
+}
+/*padding_0*/
+.pad_0{
+	padding: 0;
+}
+.page-header{
+	margin-top: 0;
+}
+.page-header h1{
+	margin: 0;
+	font-size: 16px;
+}
+.user_search{
+	padding: 10px;
+	border: 1px solid #EEEEEE;
+	border-top: none;
+}
+
+/*tag*/
+.taglist{
+	padding-top: 10px;
+}
+.taglist .alert{
+	margin: 0 15px 15px 0;
+}
+/*footer开始*/
+footer{
+    font-weight: 400;
+    text-align: center;
+    padding:20px ;
+}
+/*footer结束*/
